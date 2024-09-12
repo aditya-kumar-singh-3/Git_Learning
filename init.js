@@ -39,3 +39,5 @@ let allChats =  [{
 ];
 
 Chat.insertMany(allChats);
+
+
